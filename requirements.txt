@@ -1,11 +1,7 @@
-flask==1.1.2
-imutils==0.5.4
-opencv-python==4.1.1.26
-opencv-contrib-python==4.1.1.26
-numpy==1.19.1
-matplotlib
-Pillow==8.1.0
-python-engineio==3.13.2
-python-dateutil==2.8.1
-python-socketio==4.6.0
-eventlet
+python3.7 -m pip install opencv-python==4.2.0.32 
+python3.7 -m pip install opencv-contrib-python 
+python3.7 -m pip install python-socketio 
+python3.7 -m pip install eventlet 
+python3.7 -m pip install pillow 
+python3.7 -m pip install flask 
+python3.7 -m pip install numpy 
